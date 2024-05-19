@@ -1,0 +1,1 @@
+[{"type":"list","name":"question-1","message":"Where do you live?","choices":["Tennesse","Canada","Outer Space"]},{"type":"list","name":"question-2","message":"What's your favorite food?","choices":["Pizza","Cheeseburger","Apple Pie"]},{"type":"list","name":"question-3","message":"What's ABBA's best song?","choices":["Dancing Queen","Money, Money, Money","Waterloo"]}]

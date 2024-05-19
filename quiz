@@ -1,0 +1,1 @@
+[{"type":"list","name":"question-1","message":"question 1","choices":["answer 1.1","answer 1.2"]},{"type":"list","name":"question-2","message":"question 2","choices":["answer 2.1","answer 2.2"]}]
